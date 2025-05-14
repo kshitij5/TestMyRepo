@@ -1,1 +1,24 @@
-this is first line
+/<ProjectAlpha>
+  /US-East
+    /GetUser
+      /200_OK
+        screenshot.png
+        metadata.json
+      /404_NotFound
+        screenshot.png
+        metadata.json
+    /CreateOrder
+      /201_Created
+        screenshot.png
+        metadata.json
+  /EU-West
+    /GetUser
+      /200_OK
+        screenshot.png
+        metadata.json
+/ProjectBeta
+  /Asia
+    /ListItems
+      /200_OK
+        screenshot.png
+        metadata.json
